@@ -1,0 +1,14 @@
+# Source file for editing (unencrypted)
+index.source.html
+
+# Node modules if StatiCrypt installed locally
+node_modules/
+
+# npm debug logs
+npm-debug.log*
+
+# Superpowers docs directory
+docs/
+
+# StatiCrypt config
+.staticrypt.json
